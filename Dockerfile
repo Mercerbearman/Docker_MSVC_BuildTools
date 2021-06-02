@@ -25,17 +25,17 @@ RUN C:\TEMP\Install.cmd C:\TEMP\vs_buildtools.exe --quiet --wait --norestart --n
     --channelUri C:\TEMP\VisualStudio.chman `
     --installChannelUri C:\TEMP\VisualStudio.chman `
     --add Microsoft.VisualStudio.Workload.VCTools --includeRecommended `
-	--add Microsoft.VisualStudio.Component.Windows10SDK.18362 `
-	--add Microsoft.VisualStudio.Component.VC.ATL `
-	--add Microsoft.VisualStudio.Component.VC.ATLMFC `
-	--add Microsoft.VisualStudio.Component.VC.14.26.ATL `
-	--add Microsoft.VisualStudio.Component.VC.14.26.MFC `
-	--add Microsoft.VisualStudio.Component.VC.14.26.CLI.Support `
-	--add Microsoft.VisualStudio.Component.VC.14.26.x86.x64 `
-	--add Microsoft.VisualStudio.Component.VC.14.28.ATL `
-	--add Microsoft.VisualStudio.Component.VC.14.28.MFC `
-	--add Microsoft.VisualStudio.Component.VC.14.28.CLI.Support `
-	--add Microsoft.VisualStudio.Component.VC.14.28.x86.x64 `
+    --add Microsoft.VisualStudio.Component.Windows10SDK.18362 `
+    --add Microsoft.VisualStudio.Component.VC.ATL `
+    --add Microsoft.VisualStudio.Component.VC.ATLMFC `
+    --add Microsoft.VisualStudio.Component.VC.14.26.ATL `
+    --add Microsoft.VisualStudio.Component.VC.14.26.MFC `
+    --add Microsoft.VisualStudio.Component.VC.14.26.CLI.Support `
+    --add Microsoft.VisualStudio.Component.VC.14.26.x86.x64 `
+    --add Microsoft.VisualStudio.Component.VC.14.28.ATL `
+    --add Microsoft.VisualStudio.Component.VC.14.28.MFC `
+    --add Microsoft.VisualStudio.Component.VC.14.28.CLI.Support `
+    --add Microsoft.VisualStudio.Component.VC.14.28.x86.x64 `
     --remove Microsoft.VisualStudio.Component.Windows10SDK.10240 `
     --remove Microsoft.VisualStudio.Component.Windows10SDK.10586 `
     --remove Microsoft.VisualStudio.Component.Windows10SDK.14393 `
